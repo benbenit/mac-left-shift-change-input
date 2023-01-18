@@ -8,4 +8,4 @@ mac左右shift切换自带输入法
 - ``brew install karabiner-elements``
 
 3. 将规则导入karabiner
-- ``karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/benbenit/mac-left-shift-change.git/.json``
+- ``karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/benbenit/mac-left-shift-change.git/左shift切换输入法.json``
